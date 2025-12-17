@@ -1,0 +1,13 @@
+realtime-lip-translate/
+│
+├── app/
+│   ├── __init__.py
+│   └── main.py          ✅ (FastAPI entry point)
+│
+├── README.md            ✅ (project explanation)
+├── requirements.txt     ✅ (Python dependencies)
+│
+├── Dockerfile           (optional – later)
+├── docker-compose.yml   (optional – later)
+│
+└── .gitignore           ✅ (VERY IMPORTANT)
