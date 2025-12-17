@@ -1,0 +1,7 @@
+python -m uvicorn app.main:app --reload
+
+Open:
+
+1)  http://127.0.0.1:8000
+
+2) http://127.0.0.1:8000/docs
